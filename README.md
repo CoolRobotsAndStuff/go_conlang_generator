@@ -1,2 +1,2 @@
-# go_conlang_generator
+# Conglang Generator
 A conlang creation tool written in go.
